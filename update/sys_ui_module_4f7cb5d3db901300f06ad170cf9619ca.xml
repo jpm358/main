@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Need It">437cb5d3db901300f06ad170cf9619c9</application>
+        <filter/>
+        <name>Need Its</name>
+        <order>200</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_197496_ineedit.need_it_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-20 20:04:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f7cb5d3db901300f06ad170cf9619ca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Need Its</sys_name>
+        <sys_package display_value="INeedIt" source="x_197496_ineedit">e6d83c53db101300f06ad170cf9619c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="INeedIt">e6d83c53db101300f06ad170cf9619c9</sys_scope>
+        <sys_update_name>sys_ui_module_4f7cb5d3db901300f06ad170cf9619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-20 20:35:06</sys_updated_on>
+        <table>x_197496_ineedit_need_it</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
